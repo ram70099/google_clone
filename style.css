@@ -1,0 +1,168 @@
+body{
+		margin:0;
+		padding:0;
+	}
+.uppercontainer{
+	width:100%;
+	height:40px;
+}
+.upper{
+	float:right;
+	margin-right:20px;
+	font-family:arial;
+	font-size:13px;
+}
+
+.img{
+	float:right;
+	font-family:arial;
+	font-size:13px;
+	margin-right:20px;
+}
+.icon{
+	float:right;
+	font-size:20px;
+	margin-top:11px;
+	margin-right:20px;
+}
+.maincontainer{
+	width:100%;
+	height:250px;
+	margin:auto;
+	text-align:center;
+	padding-top:100px;
+}
+
+.img1{
+	float:right;
+	margin-top:10px;
+	margin-right:20px;
+}
+.ab{
+	float:right;
+	background-color:blue;
+	font-size:15px;
+	margin-right:10px;
+	color:white;
+	border:none;
+	margin-top:10px;
+	border-radius:4px;
+	width:70px;
+	height:27px;
+}
+.google{
+	padding-top:20px;
+}
+.searchbox{
+	width:480px;
+	height:38px;
+	border-radius:25px;
+	margin-top:20px;
+}
+.button{
+	margin-top:25px;
+	width:120px;
+	height:30px;
+	border:none;
+}
+.maincontainer input:hover{
+	border:solid 1px grey;
+	box-shadow:2px 2px 2px rgb(155 234 233);
+}
+.button1{
+	margin-top:25px;
+	margin-left:28px;
+	height:30px;
+	width:150px;
+	border:none;
+}
+
+.language{
+	font-size:14px;
+	margin-top:20px;
+	padding:5px;
+	list-style:none;
+	text-align:center;
+}
+.container{
+	width:650px;
+	height:35px;
+	margin:auto;
+	
+}
+.language li{
+	float:left;
+	margin-left:8px;
+}
+.language li a:hover{
+	text-decoration:underline;
+}
+.anchor1{
+	text-decoration:none;
+	padding-left:5px;
+}
+.anchor{
+	text-decoration:none;
+	color:black;
+}
+.uppercontainer a:hover{
+	text-decoration:underline;
+}
+.footer{
+	height:98px;
+	width:100%;
+	background-color:EEE;
+	position:fixed;
+	bottom:0;
+}
+.ind{
+	font-family:arial;
+	font-size:14px;
+	line-height:40px;
+	margin-left:33px;
+	border-bottom:solid 1px grey;
+}
+.lowercontainer{
+	list-style:none;
+	font-family:arial;
+	font-size:14px;
+}
+.lowercontainer li{
+	float:left;
+	margin-left:10px;
+}
+.lowercontainer li:nth-child(1){
+	float:left;
+	margin-left:-6px;
+}
+.lowercontainer li:nth-child(2){
+	float:left;
+	margin-left:30px;
+}
+.lowercontainer li:nth-child(3){
+	float:left;
+	margin-left:30px;
+}
+.lowercontainer li:nth-child(4){
+	float:left;
+	margin-left:30px;
+}
+.lowercontainer li:nth-child(5){
+	float:right;
+	margin-right:20px;
+}
+.lowercontainer li:nth-child(6){
+	float:right;
+	margin-right:30px;
+}
+.lowercontainer li:nth-child(7){
+	float:right;
+	margin-right:30px;
+}
+.anchor2{
+	text-decoration:none;
+	color:black;
+}
+.lowercontainer li a:hover{
+	text-decoration:underline;
+}
