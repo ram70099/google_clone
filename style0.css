@@ -58,6 +58,9 @@ body{
 	height:38px;
 	border-radius:25px;
 	margin-top:20px;
+	background-image:url('magnify.png'),url('mic.jpg');
+	background-repeat:no-repeat;
+	background-position:Top Left, Bottom Right;
 }
 .button{
 	margin-top:25px;
